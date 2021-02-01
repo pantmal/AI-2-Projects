@@ -1,0 +1,1 @@
+This text file is meant to be used as input for the geographical AI YAGO2geo. It contains 50 geographical questions for the following countries: Unites States of America, United Kingdom and the Republic of Ireland.
